@@ -1,0 +1,8 @@
+body {
+  background-image: url("bglab.jpg");
+  background-size: cover;
+}
+
+.div-1 {
+  background-color: rgba(0, 0, 0, 30%);
+}
